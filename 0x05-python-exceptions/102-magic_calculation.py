@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# ABRHAM GETACHEW 
+# ABRHAM GETACHEW
 
 
 def magic_calculation(a, b):
