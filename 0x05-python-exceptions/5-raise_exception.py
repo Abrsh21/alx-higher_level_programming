@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-raise_exception.py
-#ABRHAM GETACHEW
+# ABRHAM GETACHEW
 
 
 def raise_exception():
